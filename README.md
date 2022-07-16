@@ -119,3 +119,4 @@
 
 - :jigsaw: Rubik's Cube
 - :jp: Anime
+- :gear: Linux
