@@ -15,7 +15,7 @@
 
 ## I'am Artem Yadelskyi
 
-- :hamster: Golang Software Engineer at [SoftServe](https://www.softserveinc.com/en-us)
+- :hamster: Golang Software Engineer at [Nemesis](https://nemesiscorporation.com), previously at [SoftServe](https://www.softserveinc.com)
 - :mortar_board: Student of [LNU](https://lnu.edu.ua/en)
 
 ## Skills
@@ -117,7 +117,8 @@
   
 </details>
 
-> I worked with or have some knowledge of technology, but it's not in any way perfect.
+> I worked with or have some knowledge of technology, but it's not in any way perfect. 
+> A bit outdated :(
 
 ## Hobbies
 
