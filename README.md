@@ -15,7 +15,7 @@
 
 ## I'am Artem Yadelskyi
 
-- :hamster: Golang Software Engineer at [Nemesis](https://nemesiscorporation.com), previously at [SoftServe](https://www.softserveinc.com)
+- :hamster: Golang Software Engineer at [JellyCloud](https://jellycloud.io), previously at [Nemesis](https://nemesiscorporation.com), [SoftServe](https://softserveinc.com)
 - :mortar_board: Student of [LNU](https://lnu.edu.ua/en)
 
 ## Skills
